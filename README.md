@@ -1,4 +1,20 @@
-## Hi there 👋
+# Hi, I'm Omar Mohammed Khalaf 👋
+🚀 Pine Script & MQL5 Developer
+
+## 🔧 Skills
+- Pine Script (TradingView)
+- MQL5 (MetaTrader 5)
+- Strategy Development & Backtesting
+- Indicators, EAs, Risk Management Tools
+
+## 📂 Portfolio Highlights
+
+
+## 🌐 Connect
+
+
+---
+⭐ Check my repositories for more scripts & tools.
 
 <!--
 **OmarTradingDevelopment/OmarTradingDevelopment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
