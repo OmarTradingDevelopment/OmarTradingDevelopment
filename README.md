@@ -1,5 +1,5 @@
 # Hi, I'm Omar Mohammed Khalaf 👋
-🚀 Pine Script & MQL5 Developer
+🚀 Pine Script Developer | MQL5 Developer | Indicators, Alerts, and Trading Optimization | Helping traders and prop firms automate strategies.
 
 ## 🔧 Skills
 - Pine Script (TradingView)
