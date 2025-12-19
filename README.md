@@ -15,15 +15,27 @@
 ## 📂 Portfolio Highlights
 
 ### 1️⃣ Harmonic Pattern Scanner.
+
 ### 2️⃣ Breakout Box System.
+
 ### 3️⃣ Stochastic-Verified Price Channel System.
+
 ### 4️⃣ Smart FVG with Volume Confirmation Framework.
+
 ### 5️⃣ Multi-Timeframe Pivot System.
+
 ### 6️⃣ Market Structure Shift Detector.
+
 ### 7️⃣ Multi-Timeframe SMC Toolkit.
+
 ### 8️⃣ Intelligent RSI & Predictive Support/Resistance.
+
 ### 9️⃣ WAVE Trend Reversal Detector.
+
 ### 🔟 EMA Cloud Framework with SuperJump Confirmation System.
+- Multi-Layered EMA Cloud Trend Analysis System.
+- Adaptive QQE Momentum Detection with Bollinger Band Thresholds.
+- Confluence-Based Trading Signal Generation.
 
 ## 🌐 Connect
 📩 Email: o.mohammed.dev@email.com
