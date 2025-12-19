@@ -26,7 +26,7 @@
 ### 🔟 EMA Cloud Framework with SuperJump Confirmation System.
 
 ## 🌐 Connect
-
+📩 Email: o.mohammed.dev@email.com
 
 ---
 ⭐ Check my repositories for more scripts & tools.
