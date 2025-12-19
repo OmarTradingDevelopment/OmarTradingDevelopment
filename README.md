@@ -1,14 +1,29 @@
-# Hi, I'm Omar Mohammed Khalaf 👋
-🚀 Pine Script Developer | MQL5 Developer | Indicators, Alerts, and Trading Optimization | Helping traders and prop firms automate strategies.
+# 👋 Hi, I'm Omar Mohammed Khalaf — Pine Script Developer
+
+## 🚀 About Me
+- Pine Script Developer with 1+ year experience.
+- Developed +10 trading tools and indicators.
 
 ## 🔧 Skills
-- Pine Script (TradingView)
-- MQL5 (MetaTrader 5)
-- Strategy Development & Backtesting
-- Indicators, EAs, Risk Management Tools
+- Pine Script v5 & v6.
+- Backtesting & optimization.
+- Strategy development.
+- Indicator conversion & customization
+- Linking indicators to Telegram channels.
+- Tradingview Automation.
 
 ## 📂 Portfolio Highlights
 
+### 1️⃣ Harmonic Pattern Scanner.
+### 2️⃣ Breakout Box System.
+### 3️⃣ Stochastic-Verified Price Channel System.
+### 4️⃣ Smart FVG with Volume Confirmation Framework.
+### 5️⃣ Multi-Timeframe Pivot System.
+### 6️⃣ Market Structure Shift Detector.
+### 7️⃣ Multi-Timeframe SMC Toolkit.
+### 8️⃣ Intelligent RSI & Predictive Support/Resistance.
+### 9️⃣ WAVE Trend Reversal Detector.
+### 🔟 EMA Cloud Framework with SuperJump Confirmation System.
 
 ## 🌐 Connect
 
