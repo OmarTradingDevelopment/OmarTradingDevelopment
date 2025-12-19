@@ -14,7 +14,7 @@
 
 ## 📂 Portfolio Highlights
 
-### 1️⃣ Harmonic Pattern Scanner.
+### 1️⃣ Harmonic Patterns Scanner.
 - Advanced Harmonic Pattern Recognition System.
 - Complete Trade Setup Framework.
 - Comprehensive Visualization and Performance Analytics.
