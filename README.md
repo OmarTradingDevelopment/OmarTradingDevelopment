@@ -70,7 +70,12 @@
 - Multi-Dimensional Trend Context Framework.
 
 ## 🌐 Connect
+For Pine Script development or custom indicator requests:
+
 📩 Email: o.mohammed.dev@email.com
+📱 WhatsApp: +201123003529
+🔗 LinkedIn: linkedin.com/in/username
+🛠 Upwork: upwork.com/freelancers/username
 
 ---
 ⭐ Check my repositories for more scripts & tools.
